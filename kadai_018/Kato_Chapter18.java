@@ -7,12 +7,7 @@ abstract public class Kato_Chapter18 {  //個別の紹介を出力する
 	public String giveName;   //名を表す
 	public String address;    //住所を表す
 	
-	//コンストラクタ(初期化)
-	public Kato_Chapter18(String familyName, String giveName, String address) {
-		this.familyName = familyName;
-		this.giveName = giveName;
-		this.address = address;
-	}
+	
 	
 	//親クラスのメソッド()
 	
