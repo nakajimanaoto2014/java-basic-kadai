@@ -3,9 +3,9 @@ package kadai_018;
 abstract public class Kato_Chapter18 {  //個別の紹介を出力する
 	
 	//親クラスの作成　フィールド名
-	public String familyName; //姓を表す
+	public String familyName = "加藤";//姓を表す
 	public String giveName;   //名を表す
-	public String address;    //住所を表す
+	public String address =  "東京都中野区○×";  //住所を表す
 	
 	
 	
